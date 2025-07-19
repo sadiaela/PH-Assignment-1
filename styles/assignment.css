@@ -1,0 +1,80 @@
+/* inter font setup */
+.inter-normal> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* raleway font setup */
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+}
+header{
+  background-image: url(../Assets/Hero-bg.png);
+}
+
+/* section max height weight */
+.size{
+  max-height: 1440px;
+  max-height: 698px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; /*to bring the items center horizontally  */
+    padding: 20px 40px;
+   
+}
+
+/* style for LOGO */
+.logo-design{
+    font-weight: 900;
+    font-size: 34px;
+    color: #4E47FF;
+    margin-left: 130px;
+}
+
+ 
+.btn{
+    background-color: #4E47FF;
+    color: white;
+    height: 48px;
+    width: 132px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 130px;
+}
+.paragraph{
+  height: 252px;
+  width: 905px;
+  margin: 0 auto;
+ align-items: center; /*to bring the items center horizontally  */
+  text-align: center;
+ 
+}
+.paragraph-content{
+  font-weight: bold;
+  font-size: 65px;
+   height: 152px;
+  width: 905px;
+  margin-bottom: 30px;
+}
+.btn1{
+  height: 48px;
+  width: 180px;
+  padding: 12px 36px;
+  color: white;
+  background-color: #4E47FF;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 300px;
+  font-weight: bold;
+  font-size: 16px;
+}

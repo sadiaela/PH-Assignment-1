@@ -74,7 +74,40 @@ header{
   background-color: #4E47FF;
   border-radius: 5px;
   border: none;
-  margin-bottom: 300px;
   font-weight: bold;
   font-size: 16px;
 }
+
+/* banner styles */
+.banner-title{
+  font-weight: bold;
+  font-size: 45px;
+  color:  #252432;
+}
+.paragraph-description{
+  font-weight: 400;
+  font-size: 24px;
+  color:rgba(37, 36, 50, 0.5);
+}
+.btn2{
+  width: 250px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 12px 36px;
+  border-radius: 10px;
+  border: none;
+  background-color:#4E47FF ;
+  color: #FFFFFF;
+
+}
+
+.banner{
+  margin: 116px 140px 116px 170px;
+  display: flex;
+}
+ .banner-img{
+  width: 403px;
+  height: 328px;
+  border-radius: 48px;
+ }

@@ -251,3 +251,61 @@ color: rgba(179, 179, 179, 1);
   margin-left: 150px;
   margin-bottom: 71px;
  }
+
+ /* last section styles */
+ .last-part{
+  height: 632px;
+  width: 1140px;
+  margin: 0 auto;
+  background-color: #d7d6f6;
+ }
+ .last-section{
+  display: flex;
+  gap: 115px;
+  align-items: center;
+ }
+
+ .footer-title{
+  font-weight: bold;
+  font-size: 97px;
+
+ }
+ footer input[type="email"],input[type="text"],input[type="textarea" ]{
+  width: 497px;
+  height: 70px;
+  border-radius: 10px;
+  box-shadow: none;
+ }
+ footer input[type="textarea"]{
+border-radius: 10px;
+ }
+ 
+.btn4{
+  padding: 9px 101px;
+  height: 62px;
+  width:497px ;
+  background-color: rgba(78, 71, 255, 1);
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-radius: 10px;
+}
+/* navvars styles */
+footer ul li {
+  list-style: none;
+}
+footer a{
+  text-decoration: none;
+  color: rgba(137, 135, 161, 1);
+}
+.logo-dgn{
+  margin-top: 130px;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 900;
+  color: rgba(78, 71, 255, 1);
+}
+footer p{
+  text-align: center;
+}

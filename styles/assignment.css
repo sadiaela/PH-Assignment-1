@@ -191,6 +191,7 @@ header{
  .finishing{
   display: flex;
  
+ 
  }
  
  .img-design{
@@ -208,4 +209,45 @@ header{
  .review-date{
 color: rgba(179, 179, 179, 1);
 
+ }
+
+ /* fifth section styles */
+ .fifth-body{
+  margin-top: 137px;
+  max-width: 1140px;
+  max-height: 698px;
+  margin: 0 auto;
+
+ }
+ .ready{
+  text-align: center;
+ }
+
+ .fifth-heading{
+ text-align: center;
+  font-weight: bold;
+  font-size:  50px;
+  margin-top: 71px;
+
+ }
+ .c-color{
+  color: rgba(0, 0, 0, 0.5);
+ }
+ .btn3{
+  background-color: rgba(78, 71, 255, 1);
+  border: none;
+  border-radius: 10px;
+  height: 48px;
+  width: 195px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+ }
+ .img-dgn{
+  width: 840px;
+  height: 366px;
+  border-radius: 48px;
+  margin-left: 150px;
+  margin-bottom: 71px;
  }
